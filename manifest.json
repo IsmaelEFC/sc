@@ -1,6 +1,6 @@
 {
-  "name": "Supermarket PWA",
-  "short_name": "SuperPWA",
+  "name": "Checking Supermercado",
+  "short_name": "SuperCheck",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f8fafc",
