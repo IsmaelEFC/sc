@@ -1,6 +1,6 @@
 {
-  "name": "SuperCheking",
-  "short_name": "SuperCheking",
+  "name": "SuperChecking",
+  "short_name": "SuperChecking",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f8fafc",
