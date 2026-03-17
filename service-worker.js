@@ -1,10 +1,10 @@
 const CACHE_NAME = 'supermarket-pwa-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon.svg',
-  '/icons.svg'
+  './',
+  './index.html',
+  './manifest.json',
+  './favicon.svg',
+  './icons.svg'
 ];
 
 self.addEventListener('install', event => {
